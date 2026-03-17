@@ -1,4 +1,4 @@
-# Assembly Language Programming Examples
+# Assembly Programming Exercises
 
 This repository contains examples and exercises for learning x86-64 Assembly programming, demonstrating fundamental Assembly programming concepts, including:
 - Basic arithmetic operations
